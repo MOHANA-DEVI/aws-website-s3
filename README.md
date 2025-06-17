@@ -1,7 +1,7 @@
 
 # 🌍 Static Country Population Website (2024) - Hosted on AWS S3
 
-This project is a **static website** that displays the **2024 population** of each country using basic HTML and CSS (no JavaScript). The project is **fully hosted on AWS S3** using the static website hosting feature.
+This project is a **static website** that displays the **2024 population** of each country using basic HTML and CSS . The project is **fully hosted on AWS S3** using the static website hosting feature.
 
 📌 Project Objective
 
