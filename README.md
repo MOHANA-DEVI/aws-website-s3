@@ -23,4 +23,3 @@ To learn how to build and deploy a static website using **HTML & CSS**, and host
 - Git & GitHub (Version Control)
 
 ---
-
